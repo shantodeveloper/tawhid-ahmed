@@ -1,0 +1,104 @@
+
+.container{
+    margin-bottom: 100px;
+    
+    
+ }
+
+.heder-name-color{
+    color: rgb(4, 0, 255);
+}
+ .header-bg{
+   background-repeat: no-repeat;
+ background-image:url(images/top-banner.png)
+ 
+ }
+.home-color{
+    color: green;
+}
+.home-make h1{
+
+    font-size: 50px;
+}
+
+.about{
+    font-size: 40px;
+}
+
+.underline-block {
+    width: 200px;
+    height: 5px;
+    border-radius: 10px;
+    background-color: blue;
+  }
+
+  .underline-block-2{
+      width: 150px;
+      height: 5px;
+      border-radius: 10px;
+      background-color: blue;
+  }
+
+  .about-skills {
+    width: 100%;
+    
+  }
+  
+  .skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+  }
+  
+  .html {width: 90%; background-color: #04AA6D;}
+  .css {width: 80%; background-color: #2196F3;}
+  .js {width: 65%; background-color: #f44336;}
+  .php {width: 60%; background-color: #808080;}
+
+
+  .underline-block-3{
+    width: 350px;
+    height: 5px;
+    border-radius: 10px;
+    background-color: blue;  
+  }
+
+  
+  .underline-block-4{
+      width: 250px;
+      height: 5px;
+      border-radius: 10px;
+      background-color: blue;
+  }
+
+  .psc{
+    color: blue;
+  }
+  
+  
+  
+
+  .underline-block-5{
+    width: 150px;
+    height: 5px;
+    border-radius: 10px;
+    background-color:blue;
+  }
+
+  
+  .quali-bg{
+  background-color: aliceblue;
+  }
+
+  .skills-bg{
+    background-color: #04AA6D;
+  }
+  .foot-bg{
+    background-color: antiquewhite;
+    
+  }
+ .fa-brands fa-instagram{
+   color: red;
+ }
+ 
